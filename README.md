@@ -1,1 +1,4 @@
-# Mini-Projects
+# Mini Projects
+
+- MadLibsGenerator
+- NumberGuessingGame
